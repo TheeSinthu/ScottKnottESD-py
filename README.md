@@ -4,7 +4,7 @@ This repository provides a **Python implementation** of the Scott-Knott Effect S
 
 The Scott-Knott ESD test is a ranking and clustering procedure to compare multiple treatments while accounting for effect sizes.
 
-## 📚 References
+# References
 
 This Python implementation builds upon the original ScottKnottESD work.  
 If you use this implementation, please also cite the following:
