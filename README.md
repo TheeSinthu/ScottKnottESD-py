@@ -2,7 +2,7 @@
 
 This repository provides a **Python implementation** of the Scott-Knott Effect Size Difference (ESD) test, originally implemented in R by [ScottKnottESD](https://github.com/klainfo/ScottKnottESD).
 
-The Scott-Knott ESD test is a ranking and clustering procedure to compare multiple treatments while accounting for effect sizes.
+The Scott-Knott ESD test is a ranking and clustering procedure to compare multiple treatments with Statistical and Effect Size test. Each ranked cluster's performance must be both statistically significant with large effect size.
 
 # References
 
